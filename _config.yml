@@ -3,7 +3,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Quibli
+title: Chroma
 masthead_title: " " # Disable title on masthead because the graphic logo has the title.
 email: info@dustyroom.com
 description: >- # this means to ignore newlines until "baseurl:"
