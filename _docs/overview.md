@@ -1,5 +1,5 @@
 ---
-title: "What Is Quibli? A Brief Overview"
+title: "What Is Chroma?"
 permalink: /
 excerpt: "What is Quibli? How it differs from Flat Kit?"
 layout: single
