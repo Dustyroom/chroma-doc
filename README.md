@@ -1,4 +1,4 @@
-# Quibli public documentation
-- [https://quibli.dustyroom.com/](https://quibli.dustyroom.com/)
-- [https://dustyroom-studio.github.io/quibli-doc/](https://dustyroom-studio.github.io/quibli-doc/)
-- https://u3d.as/2FwR
+# Chroma documentation
+- [https://chroma.dustyroom.com/](https://chroma.dustyroom.com/)
+- [https://dustyroom.github.io/chroma-doc/](https://dustyroom.github.io/chroma-doc/)
+- https://u3d.as/
