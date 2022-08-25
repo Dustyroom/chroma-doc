@@ -1,7 +1,7 @@
 ---
-title: "Stylized Lit Shader"
-permalink: /stylized-lit-shader/
-excerpt: "Quibli Stylized Lit Shader"
+title: "Example Shader 1"
+permalink: /example-shader-1/
+excerpt: "Example Shader 1"
 ---
 
 ## Stylized Lit Shader Brief Overview

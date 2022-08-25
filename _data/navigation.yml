@@ -3,8 +3,6 @@ main:
     url: https://u3d.as/2FwR
   - title: "Report an issue on GitHub"
     url: https://github.com/dustyroom/chroma-doc/issues/new/choose
-  - title: "Report an issue on Trello"
-    url: https://trello.com/b/tOhjxOib/quibli
   - title: "FAQs"
     url: /faqs/
   - title: "Contact"
@@ -23,38 +21,26 @@ docs:
         url: /faqs/
       - title: "Limitations"
         url: /limitations/
-      - title: "Quibli and Flat Kit"
-        url: /quibli-flat-kit/
-  - title: Shaders
+  - title: ShaderGraph Components
     children:
-      - title: "Stylized Lit Shader"
-        url: /stylized-lit-shader/
-      - title: "Foliage Shader"
-        url: /foliage-shader/
-      - title: "Grass Shader"
-        url: /grass-shader/
-      - title: "Skybox Shader"
-        url: /skybox-shader/
-      - title: "Cloud2D Shader"
-        url: /cloud2d-shader/
-      - title: "Cloud3D Shader"
-        url: /cloud3d-shader/
-      - title: "Light Beam Shader"
-        url: /light-beam-shader/
-  - title: Post Effects
+      - title: "Component 1"
+        url: /component-1/
+      - title: "Component 2"
+        url: /component-2/
+  - title: Example Shaders
     children:
-      - title: "Stylized Detail"
-        url: /stylized-detail-post-effect/
-      - title: "Stylized Color Grading"
-        url: /stylized-color-grading-post-effect/
+      - title: "Example Shader 1"
+        url: /example-shader-1/
+      - title: "Example Shader 2"
+        url: /example-shader-2/
+  - title: Example Post Effects
+    children:
+      - title: "Color Remap — Example Post Effect"
+        url: /color-remap-example-post-effect/
   - title: Scripts
     children:
-      - title: "Foliage Generator"
-        url: /foliage-generator/
-      - title: "Grass Generator"
-        url: /grass-generator/
-      - title: "Curve Renderer"
-        url: /curve-renderer/
+      - title: "Forward Renderer Loader"
+        url: /forward-renderer-loader/
   - title: Help
     children:
       - title: "Contact"

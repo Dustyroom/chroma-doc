@@ -1,7 +1,7 @@
 ---
-title: "Grass Generator"
-permalink: /grass-generator/
-excerpt: "Quibli Grass Generator Script"
+title: "Forward Renderer Loader"
+permalink: /forward-renderer-loader/
+excerpt: "Forward Renderer Loader"
 ---
 
 ## Grass Generator Brief Overview

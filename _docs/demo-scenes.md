@@ -1,7 +1,7 @@
 ---
-title: "Demo Scenes Included in Quibli"
+title: "Demo Scenes Included in Chroma"
 permalink: /demo-scenes/
-excerpt: "Demo Scenes Included in Quibli"
+excerpt: "Demo Scenes Included in Chroma"
 ---
 
 In the scenes we tried to showcase a variety of use cases for the Quibli shaders: [Stylized Lit](../stylized-lit-shader), [Foliage](../foliage-shader), [Grass](../grass-shader), [Skybox](../skybox-shader), [Cloud3D](../cloud3d-shader), [Cloud2D](../cloud2d-shader), [Light Beam]([../light-beam-shader) as well as the post effects and additional tools.  
