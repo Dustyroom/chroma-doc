@@ -21,26 +21,24 @@ docs:
         url: /faqs/
       - title: "Limitations"
         url: /limitations/
-  - title: ShaderGraph Components
+  - title: Shader Components
     children:
-      - title: "Component 1"
-        url: /component-1/
-      - title: "Component 2"
-        url: /component-2/
-  - title: Example Shaders
+      - title: "Gradient"
+        url: /gradient/
+      - title: "Curve"
+        url: /curve/
+  - title: Examples
     children:
       - title: "Example Shader 1"
         url: /example-shader-1/
       - title: "Example Shader 2"
         url: /example-shader-2/
-  - title: Example Post Effects
-    children:
       - title: "Color Remap — Example Post Effect"
         url: /color-remap-example-post-effect/
-  - title: Scripts
+  - title: Markdown
     children:
-      - title: "Forward Renderer Loader"
-        url: /forward-renderer-loader/
+      - title: "Markdown"
+        url: /markdown/
   - title: Help
     children:
       - title: "Contact"
