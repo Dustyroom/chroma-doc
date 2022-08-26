@@ -1,7 +1,7 @@
 ---
-title: "Color Remap — Example Post Effect"
-permalink: /color-remap-example-post-effect/
-excerpt: "Color Remap — Example Post Effect"
+title: "Color Remap"
+permalink: /color-remap/
+excerpt: "Color Remap"
 ---
 
 ## Stylized Color Grading Post Effect Brief Overview

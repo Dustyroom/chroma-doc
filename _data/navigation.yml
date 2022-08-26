@@ -33,8 +33,8 @@ docs:
         url: /example-shader-1/
       - title: "Example Shader 2"
         url: /example-shader-2/
-      - title: "Color Remap — Example Post Effect"
-        url: /color-remap-example-post-effect/
+      - title: "Color Remap"
+        url: /color-remap/
   - title: Markdown
     children:
       - title: "Markdown"
