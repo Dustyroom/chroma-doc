@@ -23,6 +23,8 @@ docs:
         url: /gradient/
       - title: "Curve"
         url: /curve/
+      - title: "Blend Modes"
+        url: /blend-modes/
       - title: "Example (Shader Graph)"
         url: /example-shader-shader-graph/
       - title: "Example (Code)"
