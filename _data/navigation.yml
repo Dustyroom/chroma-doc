@@ -24,6 +24,7 @@ docs:
       - title: "Curve"
         url: /curve/
       - title: Examples
+        url: /example-shader-shader-graph/
         children:
           - title: "Shader Graph"
             url: /example-shader-shader-graph/
