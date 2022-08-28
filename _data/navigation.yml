@@ -23,13 +23,10 @@ docs:
         url: /gradient/
       - title: "Curve"
         url: /curve/
-      - title: Examples
+      - title: "Example (Shader Graph)"
         url: /example-shader-shader-graph/
-        children:
-          - title: "Shader Graph"
-            url: /example-shader-shader-graph/
-          - title: "Hand-written Code"
-            url: /example-shader-code/
+      - title: "Example (Code)"
+        url: /example-shader-code/
   - title: Markdown
     children:
       - title: "Getting Started"
