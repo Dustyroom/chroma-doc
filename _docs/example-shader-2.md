@@ -1,7 +1,7 @@
 ---
-title: "Example Shader 2"
-permalink: /example-shader-2/
-excerpt: "Example Shader 2"
+title: "Hand-written Code"
+permalink: /example-shader-code/
+excerpt: "Simple lit shader example written in HLSL."
 ---
 
 ## Stylized Lit Shader Brief Overview

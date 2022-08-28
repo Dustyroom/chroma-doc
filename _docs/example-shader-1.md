@@ -1,7 +1,7 @@
 ---
-title: "Example Shader 1"
-permalink: /example-shader-1/
-excerpt: "Example Shader 1"
+title: "Shader Graph"
+permalink: /example-shader-shader-graph/
+excerpt: "Simple lit shader example using Shader Graph."
 ---
 
 ## Stylized Lit Shader Brief Overview
