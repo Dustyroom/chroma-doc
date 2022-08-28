@@ -6,14 +6,14 @@ main:
   - title: "FAQs"
     url: /faqs/
   - title: "Contact"
-    url: /contact-details/
+    url: /contact/
 
 docs:
   - title: Getting Started
     children:
       - title: "What Is Chroma?"
         url: /
-      - title: "Quick-Start Guide"
+      - title: "Getting Started"
         url: /installation/
       - title: "Demo Scenes Included"
         url: /demo-scenes/
@@ -25,18 +25,20 @@ docs:
         url: /curve/
       - title: Examples
         children:
-          - title: "Example Shader 1"
-            url: /example-shader-1/
-          - title: "Example Shader 2"
-            url: /example-shader-2/
+          - title: "Shader Graph"
+            url: /example-shader-shader-graph/
+          - title: "Hand-written Code"
+            url: /example-shader-code/
   - title: Markdown
     children:
-      - title: "Markdown"
-        url: /markdown/
+      - title: "Getting Started"
+        url: /markdown-getting-started/
+      - title: "Cheat-sheet"
+        url: /markdown-cheat-sheet/
   - title: Help
     children:
       - title: "Contact"
-        url: /contact-details/
+        url: /contact/
       - title: "FAQs"
         url: /faqs/
       - title: "Limitations"
