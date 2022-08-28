@@ -24,7 +24,7 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **Unity details**:
-(Use the `Copy` button in your project *Quibli/Readme* file and paste here.)
+(Use the `Copy` button in your project *Chroma/Readme* file and paste here.)
 
 **Additional context**
 Add any other context about the problem here.

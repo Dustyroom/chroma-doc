@@ -15,15 +15,15 @@ The _Stylized Color Grading_ includes the essence of the color correction proces
 
 ## Beginning to Work with Stylized Color Grading Post Effect
 
-**STEP 1.** The _Stylized Detail_ effect has to be added to the currently used [_Forward Renderer_](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@11.0/manual/urp-forward-renderer.html){:target="_blank"} as a [_Renderer Feature_](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@11.0/manual/urp-renderer-feature.html){:target="_blank"}. The _Renderer Feature_ is called **Quibli Post Process** and includes **Stylized Color Grading** and **Stylized Detail** [described here](../stylized-detail-post-effect) in the **Before Post Processing** and **After Post Processing** sections. The steps are below.  
+**STEP 1.** The _Stylized Detail_ effect has to be added to the currently used [_Forward Renderer_](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@11.0/manual/urp-forward-renderer.html){:target="_blank"} as a [_Renderer Feature_](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@11.0/manual/urp-renderer-feature.html){:target="_blank"}. The _Renderer Feature_ is called **Chroma Post Process** and includes **Stylized Color Grading** and **Stylized Detail** [described here](../stylized-detail-post-effect) in the **Before Post Processing** and **After Post Processing** sections. The steps are below.  
 ![Stylized Post Effects Renderer Features loaded in Forward Renderer](../assets/images/manual_images/quibli_post_processing_renderer_features.png)  
 *Stylized Post Effects Renderer Features loaded in Forward Renderer*. 
 {: .notice--info}
 
   1. Locate the currently active _Forward Renderer_. It can be done in a few ways. One of them is to look at your camera’s _Inspector_ panel ▶ _Forward Renderer_ field. Search for this _Forward Renderer_, select it and look at the _Inspector_ panel;
   1. Click **Add Renderer Feature**;
-  1. Locate the **Quibli Post Process** item in the menu. Select it;
-  1. In the **Before Post Process** part of the _Quibli Post Process_, please, click the '+' button and select **Stylized Color Grading** in the drop down menu.
+  1. Locate the **Chroma Post Process** item in the menu. Select it;
+  1. In the **Before Post Process** part of the _Chroma Post Process_, please, click the '+' button and select **Stylized Color Grading** in the drop down menu.
 
 **STEP 2.** After **_STEP 1_** above is completed, as the _Stylized Color Grading_ effect is a _Volume Override_ created to be used in the _Volume_ component of the camera, it should be added as a part of the post-processing onto the camera. The steps are below.
 {: .notice--info}
@@ -32,11 +32,11 @@ The _Stylized Color Grading_ includes the essence of the color correction proces
   1. Press **Add Component** on the bottom of _Inspector_ panel;
   1. Type **Volume** in the search box, or locate it manually in **Miscellaneous** ▶ **Volume**, click on it once found;
   1. Click **Add Override** in the Volume;
-  1. Select **Quibli** ▶ **Stylized Color Grading**.
+  1. Select **Chroma** ▶ **Stylized Color Grading**.
 
 _Stylized Color Grading_ effect is ready to be used now.
 
-In the _Demo Scenes_ everything has already been set up and are ready to be used. Once you set up Quibli as described in the [installation guide](../installation), all the _Forward Renderers_, _Renderer Features_ and _Volume Overrides_ are already installed and configured.
+In the _Demo Scenes_ everything has already been set up and are ready to be used. Once you set up Chroma as described in the [installation guide](../installation), all the _Forward Renderers_, _Renderer Features_ and _Volume Overrides_ are already installed and configured.
 {: .notice--info}
 
 ## Parameters of Stylized Color Grading Post Effect

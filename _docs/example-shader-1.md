@@ -7,21 +7,21 @@ excerpt: "Example Shader 1"
 ## Stylized Lit Shader Brief Overview
 _Stylized Lit_ shader is a main go-to lit shader to be used in the majority of situations. It is a stylized shader, whose output ranges from a strict one-color flat surface to a cartoon style look, to a vivid acid-color experimental mess, with lots of the sweet spots in between.
 
-![Quibli Stylized Lit Shader. Basic view. Once the parameters are enabled, the interface is being expanded](../assets/images/manual_images/quibli_stylized_lit_shader_interface_basic.png)
+![Chroma Stylized Lit Shader. Basic view. Once the parameters are enabled, the interface is being expanded](../assets/images/manual_images/quibli_stylized_lit_shader_interface_basic.png)
 
 {:.image-caption}
-*Quibli Stylized Lit Shader. Basic view. Once the parameters are enabled, the interface is being expanded*
+*Chroma Stylized Lit Shader. Basic view. Once the parameters are enabled, the interface is being expanded*
 
 ## Beginning to work with the Stylized Lit Shader
 1. Create a material.
-1. In the **Inspector** panel, in the **Shader** drop down menu choose **Quibli** ▶︎ **Stylized Lit**.
+1. In the **Inspector** panel, in the **Shader** drop down menu choose **Chroma** ▶︎ **Stylized Lit**.
 Now you can apply this material to a 3D game object on your Scene or in the Hierarchy panel.
 
 ## Parameters of the Stylized Lit Shader
 
 ### Gradient
 
-This is one of the highlight features of Quibli shaders. Put simply, _Gradient_ (also referred as _Gradient Editor_) lets you dial in up to 8 independent colors per single material. You can make the color bands as wide or narrow as you want. In this manual we keep returning to this über-parameter with different examples.
+This is one of the highlight features of Chroma shaders. Put simply, _Gradient_ (also referred as _Gradient Editor_) lets you dial in up to 8 independent colors per single material. You can make the color bands as wide or narrow as you want. In this manual we keep returning to this über-parameter with different examples.
 
 The same Gradient Editor is available for the following shaders: [Stylized Lit](../stylized-lit-shader), [Foliage](../foliage-shader), [Skybox](../skybox-shader), [Cloud3D](../cloud3d-shader), [Cloud2D](../cloud2d-shader). You can find the detailed explanation of the _Gradient_ in the ['Gradient' sub-chapter of 'Stylized Lit shader' chapter](../stylized-lit-shader/#gradient)  
 {: .notice--info}
@@ -171,7 +171,7 @@ _Lighting_ is a collapsible/expandable group of parameters that manages the beha
 
 - **Receive Shadows** Once enabled, the mesh will receive the shadows cast from itself and other objects. Turning _Receive Shadows_ off would disable received shadows from elsewhere as well as self-shadowing.
 
-Turning _Receive Shadows_ off is, probably, the parameter you'd want to turn off right away (it is impossible to do it automatically, since loading _Quibli Stylized Lit_ shader inherits the shadows in 'on' state — from the _Unity Standard Lit_ shader, which is loaded every time you create a new material, and which you are switching to the _Stylized Lit_ from).
+Turning _Receive Shadows_ off is, probably, the parameter you'd want to turn off right away (it is impossible to do it automatically, since loading _Chroma Stylized Lit_ shader inherits the shadows in 'on' state — from the _Unity Standard Lit_ shader, which is loaded every time you create a new material, and which you are switching to the _Stylized Lit_ from).
 {: .notice--info}
 
 - **Shadow Occlusion** Masks received Unity shadows in areas where normals face away from the light. Useful to remove shadows that 'go through' objects.
@@ -192,7 +192,7 @@ _Outline_ is a collapsible/expandable group of parameters for working with the s
 {:.image-caption}
 *Stylized Lit Shader — Outline parameters*
 
-Please, notice that this outline feature is simplified as compared to [Outline Image Effect in Flat Kit](https://flatkit.dustyroom.com/#42-outline-image-effect){:target="_blank"}. In the Quibli's _Stylized Lit_ shader you have an option to quickly add a contour based on normals of the mesh, though it has a few handy parameters for making it look nice in most of the basic cases.
+Please, notice that this outline feature is simplified as compared to [Outline Image Effect in Flat Kit](https://flatkit.dustyroom.com/#42-outline-image-effect){:target="_blank"}. In the Chroma's _Stylized Lit_ shader you have an option to quickly add a contour based on normals of the mesh, though it has a few handy parameters for making it look nice in most of the basic cases.
 {: .notice--warning}
 
 - **Color** Selects the color of the contour.
@@ -241,4 +241,4 @@ Below you can find answers to the typical possible questions when working with S
 
 
 #### Can't find Stylized Lit in the list of the shaders
-  * Please try **completely** reimporting Quibli. [Here's how](../installation/#after-importing-quibli-gives-errors)
+  * Please try **completely** reimporting Chroma. [Here's how](../installation/#after-importing-quibli-gives-errors)

@@ -1,7 +1,7 @@
 ---
-title: "Quibli"
+title: "Chroma"
 permalink: /example-ignore/
-excerpt: "How to quickly install and setup Quibli."
+excerpt: "How to quickly install and setup Chroma."
 ---
 
 Minimal Mistakes has been developed as a [Gem-based theme](http://jekyllrb.com/docs/themes/) for easier use, and 100% compatible with GitHub Pages when used as a remote theme.
