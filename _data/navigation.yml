@@ -1,8 +1,8 @@
 main:
   - title: "Asset Store"
     url: https://u3d.as/2FwR
-  - title: "Report an issue on GitHub"
-    url: https://github.com/dustyroom/chroma-doc/issues/new/choose
+  - title: "Report an issue"
+    url: https://github.com/Dustyroom/chroma-doc/issues/new/choose
   - title: "FAQs"
     url: /faqs/
   - title: "Contact"
@@ -17,24 +17,18 @@ docs:
         url: /installation/
       - title: "Demo Scenes Included"
         url: /demo-scenes/
-      - title: "FAQs"
-        url: /faqs/
-      - title: "Limitations"
-        url: /limitations/
   - title: Shader Components
     children:
       - title: "Gradient"
         url: /gradient/
       - title: "Curve"
         url: /curve/
-  - title: Examples
-    children:
-      - title: "Example Shader 1"
-        url: /example-shader-1/
-      - title: "Example Shader 2"
-        url: /example-shader-2/
-      - title: "Color Remap"
-        url: /color-remap/
+      - title: Examples
+        children:
+          - title: "Example Shader 1"
+            url: /example-shader-1/
+          - title: "Example Shader 2"
+            url: /example-shader-2/
   - title: Markdown
     children:
       - title: "Markdown"
@@ -43,3 +37,7 @@ docs:
     children:
       - title: "Contact"
         url: /contact-details/
+      - title: "FAQs"
+        url: /faqs/
+      - title: "Limitations"
+        url: /limitations/
