@@ -29,12 +29,12 @@ docs:
         url: /example-shader-shader-graph/
       - title: "Example (Code)"
         url: /example-shader-code/
-  - title: Markdown
+  - title: Shader UI
     children:
-      - title: "Getting Started"
-        url: /markdown-getting-started/
-      - title: "Cheat-sheet"
-        url: /markdown-cheat-sheet/
+      - title: Overview
+        url: /shader-ui-overview/
+      - title: Attributes
+        url: /shader-ui-attributes/
   - title: Help
     children:
       - title: "Contact"
