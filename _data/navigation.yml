@@ -1,33 +1,33 @@
 main:
-  - title: "Asset Store"
+  - title: Asset Store
     url: https://u3d.as/2FwR
-  - title: "Report an issue"
+  - title: Report an issue
     url: https://github.com/Dustyroom/chroma-doc/issues/new/choose
-  - title: "FAQs"
+  - title: FAQs
     url: /faqs/
-  - title: "Contact"
+  - title: Contact
     url: /contact/
 
 docs:
   - title: Getting Started
     children:
-      - title: "What Is Chroma?"
+      - title: What Is Chroma?
         url: /
-      - title: "Getting Started"
+      - title: Getting Started
         url: /installation/
-      - title: "Demo Scenes Included"
+      - title: Demo Scenes Included
         url: /demo-scenes/
   - title: Shader Components
     children:
-      - title: "Gradient"
+      - title: Gradient
         url: /gradient/
-      - title: "Curve"
+      - title: Curve
         url: /curve/
-      - title: "Blend Modes"
+      - title: Blend Modes
         url: /blend-modes/
-      - title: "Example (Shader Graph)"
+      - title: Example (Shader Graph)
         url: /example-shader-shader-graph/
-      - title: "Example (Code)"
+      - title: Example (Code)
         url: /example-shader-code/
   - title: Shader UI
     children:
@@ -37,9 +37,9 @@ docs:
         url: /shader-ui-attributes/
   - title: Help
     children:
-      - title: "Contact"
+      - title: Contact
         url: /contact/
-      - title: "FAQs"
+      - title: FAQs
         url: /faqs/
-      - title: "Limitations"
+      - title: Limitations
         url: /limitations/
