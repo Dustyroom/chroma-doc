@@ -100,7 +100,7 @@ defaults:
       layout: single
       author_profile: false
 
-logo: "/assets/images/chroma_logo_type_3.png"
+logo: "/assets/images/chroma_logo_type_4.png"
 
 mermaid:
   src: https://cdnjs.cloudflare.com/ajax/libs/mermaid/7.1.2/mermaid.min.js
