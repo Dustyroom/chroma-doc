@@ -25,10 +25,10 @@ docs:
         url: /curve/
       - title: Blend Modes
         url: /blend-modes/
-      - title: Example (Shader Graph)
-        url: /example-shader-shader-graph/
-      - title: Example (Code)
-        url: /example-shader-code/
+      - title: Shader Graph Nodes
+        url: /shader-graph-nodes/
+      - title: Macros for Code Shaders
+        url: /code-shader-macros/
   - title: Shader UI
     children:
       - title: Overview
