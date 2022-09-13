@@ -38,7 +38,7 @@ docs:
   - title: Help
     children:
       - title: Contact
-        url: /contact/
+        url: /contact-details/
       - title: FAQs
         url: /faqs/
       - title: Limitations
