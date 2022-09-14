@@ -23,8 +23,6 @@ docs:
         url: /gradient/
       - title: Curve
         url: /curve/
-      - title: Blend Modes
-        url: /blend-modes/
       - title: Shader Graph Nodes
         url: /shader-graph-nodes/
       - title: Macros for Code Shaders
