@@ -25,7 +25,7 @@ docs:
         url: /curve/
       - title: Shader Graph Nodes
         url: /shader-graph-nodes/
-      - title: Macros for Code Shaders
+      - title: Code Macros
         url: /code-shader-macros/
   - title: Shader UI
     children:
