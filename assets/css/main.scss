@@ -29,4 +29,9 @@ html {
     font-size: .8rem;
     color: light-grey;
   }
+
+  .code-small {
+    @extend .highlight;
+    font-size: $type-size-8;
+  }
 }
