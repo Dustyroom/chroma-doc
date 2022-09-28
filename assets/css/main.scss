@@ -24,7 +24,11 @@ html {
     }
   }
 
-  .img {
+  .image-fancy {
+    border-style:solid;
+    border-color:darkgray;
+    border-width:thick;
+    border-radius:1vh;
     max-width: 100%;
     height: auto;
     display: block;
