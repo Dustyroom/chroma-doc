@@ -31,7 +31,6 @@ html {
   }
 
   .code-small {
-    @extend .highlight;
     font-size: $type-size-8;
   }
 }
