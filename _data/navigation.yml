@@ -23,9 +23,9 @@ docs:
         url: /gradient/
       - title: Curve
         url: /curve/
-      - title: Shader Graph Nodes
+      - title: Shader Graph
         url: /shader-graph-nodes/
-      - title: Code Macros
+      - title: Code Shaders
         url: /code-shader-macros/
   - title: Shader UI
     children:
