@@ -15,7 +15,7 @@ docs:
         url: /
       - title: Getting Started
         url: /installation/
-      - title: Demo Scenes Included
+      - title: Demo Scenes
         url: /demo-scenes/
   - title: Shader Components
     children:
