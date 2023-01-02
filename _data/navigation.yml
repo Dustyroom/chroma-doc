@@ -9,14 +9,32 @@ main:
     url: /faqs/
   - title: Contact
     url: /contact-details/
-  - title: Release notes
-    url: /release-notes/
 
 docs:
   - title: Getting Started
     children:
-      - title: Quick Overview
+      - title: What Is Chroma?
         url: /
+  - title: Getting Started
+        url: /installation/
+      - title: Demo Scenes
+        url: /demo-scenes/
+  - title: Shader Components
+    children:
+      - title: Gradient
+        url: /gradient/
+      - title: Curve
+        url: /curve/
+      - title: Shader Graph
+        url: /shader-graph-nodes/
+      - title: Code Shaders
+        url: /code-shader-macros/
+  - title: Shader UI
+    children:
+      - title: Overview
+        url: /shader-ui-overview/
+      - title: Attributes
+        url: /shader-ui-attributes/
   - title: Help
     children:
       - title: Contact
