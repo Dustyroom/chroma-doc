@@ -15,7 +15,7 @@ docs:
     children:
       - title: What Is Chroma?
         url: /
-  - title: Getting Started
+      - title: Getting Started
         url: /installation/
       - title: Demo Scenes
         url: /demo-scenes/
