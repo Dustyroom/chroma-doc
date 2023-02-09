@@ -9,10 +9,13 @@ email: info@dustyroom.com
 description: >- # this means to ignore newlines until "baseurl:"
   Easily add gradient and curve parameters to any shader. Effortlessly create user-friendly material UIs.
 twitter_username: _dstrm
-# google_analytics: UA-53337407-22
-
 minimal_mistakes_skin: air
 search: true
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-YEY2P173TF"
 
 # Build settings
 markdown: kramdown
