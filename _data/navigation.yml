@@ -19,6 +19,8 @@ docs:
         url: /installation/
       - title: Demo Scenes
         url: /demo-scenes/
+      - title: Example Shaders
+        url: /example-shaders/
   - title: Shader Components
     children:
       - title: Gradient
