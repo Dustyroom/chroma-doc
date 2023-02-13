@@ -13,15 +13,21 @@ main:
 docs:
   - title: Getting Started
     children:
-      - title: What Is Chroma?
+      - title: Overview
         url: /
-      - title: Getting Started
+      - title: Installation
         url: /installation/
       - title: Demo Scenes
         url: /demo-scenes/
       - title: Example Shaders
         url: /example-shaders/
-  - title: Shader Components
+  - title: Shader UI
+    children:
+      - title: Set up
+        url: /shader-ui-setup/
+      - title: Attributes
+        url: /attributes/
+  - title: Features
     children:
       - title: Gradient
         url: /gradient/
@@ -31,12 +37,6 @@ docs:
         url: /shader-graph-nodes/
       - title: Code Shaders
         url: /code-shader-macros/
-  - title: Shader UI
-    children:
-      - title: Overview
-        url: /shader-ui-overview/
-      - title: Attributes
-        url: /shader-ui-attributes/
   - title: Help
     children:
       - title: Contact
