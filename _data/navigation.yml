@@ -23,7 +23,7 @@ docs:
         url: /example-shaders/
   - title: Shader UI
     children:
-      - title: Set up
+      - title: Setup
         url: /shader-ui-setup/
       - title: Attributes
         url: /attributes/
