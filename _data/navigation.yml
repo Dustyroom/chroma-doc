@@ -41,7 +41,5 @@ docs:
     children:
       - title: Contact
         url: /contact-details/
-      - title: FAQs
+      - title: FAQ
         url: /faqs/
-      - title: Limitations
-        url: /limitations/
